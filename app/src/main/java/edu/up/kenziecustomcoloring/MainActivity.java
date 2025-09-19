@@ -3,6 +3,7 @@ package edu.up.kenziecustomcoloring;
 /**
  * @Author: McKenzie Varenhorst
  * Due Date: 2025-09-18
+ *
  */
 
 import android.os.Bundle;
