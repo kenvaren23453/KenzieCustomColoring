@@ -2,6 +2,7 @@ package edu.up.kenziecustomcoloring;
 /**
  * @Author: McKenzie Varenhorst
  * Due Date: 2025-09-18
+ *
  * References:
  * https://developer.android.com/develop/ui/views/layout/custom-views/custom-drawing
  * https://developer.android.com/reference/android/graphics/Canvas
